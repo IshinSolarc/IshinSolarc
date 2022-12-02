@@ -8,4 +8,4 @@
 - Nothing because I'm still a newbie
 - 📫 How to reach me ...
 - Email: Solarcprime@gmail.com
-- Discord: Ishin Solarc#0666
+- Discord: Ishin Solarc#9634
