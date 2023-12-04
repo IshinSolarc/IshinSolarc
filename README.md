@@ -11,3 +11,6 @@
 - 📫 How to reach me ...
 - Email: Solarcprime@gmail.com
 - Discord: ishinsolarc
+
+- Personal Page
+- https://ishinsolarc.github.io/
