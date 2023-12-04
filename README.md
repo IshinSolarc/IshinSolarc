@@ -5,7 +5,8 @@
 - Programming and weird coding
   
 - 🌱 I’m currently learning ...
-- Python and C++
+- BootStrap and new ways of coding front-end
+- Back-end development as a whole
   
 - 📫 How to reach me ...
 - Email: Solarcprime@gmail.com
