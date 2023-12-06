@@ -1,6 +1,6 @@
 👋 Hi, I’m @IshinSolarc, Also known IRL as Carlos Nishi
   
-  Programming and weird coding
+Love Programming and weird coding
 - 
 I’m currently learning ...
 - BootStrap and new ways of coding front-end
