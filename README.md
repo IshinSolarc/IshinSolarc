@@ -1,5 +1,3 @@
-👋 Hi, I’m @IshinSolarc, Also known IRL as Carlos Nishi
-  
 Love Programming and weird coding
 - 
 I’m currently learning ...
